@@ -1,0 +1,326 @@
+
+COMPUTER COMPONENTS :
+---------------------
+Computer Components
+Input Devices
+Output Devices
+Central Processing Unit
+Hardware
+Software
+Operating System
+________________________________________________________________________________
+
+<<<<<< COMPUTER COMPONENTS >>>>>>>
+________________________________________________
+ Computer Components                            |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Computer Components 
+                                                                                        
+2) Definition of Computer Components ?
+--------------------------------------
+*
+ 
+3) What is Computer Components About ?
+--------------------------------------
+*
+*
+
+4) What does Computer Components Do ?
+--------------------------------------
+*
+*
+
+5) Advantages/Benefits of Computer Components :
+-----------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Computer Components :
+--------------------------------------------------
+*
+*
+*  
+
+7) Examples of Computer Components :
+------------------------------------
+*
+*
+___________________________________________________________________________________
+
+\\\\ Input Devices ////
+________________________________________________
+ Input Devices                                  |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Input Devices 
+                                                                                        
+2) Definition of Input Devices ?
+--------------------------------
+*
+ 
+3) What is Input Devices About ?
+--------------------------------
+*
+*
+
+4) What does Input Devices Do ?
+-------------------------------
+*
+*
+
+5) Advantages/Benefits of Input Devices :
+-----------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Input Devices :
+--------------------------------------------
+*
+*
+*  
+
+7) Examples of Input Devices :
+------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Output Devices ////
+________________________________________________
+ Output Devices                                 |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Output Devices 
+                                                                                        
+2) Definition of Output Devices ?
+---------------------------------
+*
+ 
+3) What is Output Devices About ?
+---------------------------------
+*
+*
+
+4) What does What is Computer Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Output Devices :
+------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Output Devices :
+---------------------------------------------
+*
+*
+*  
+
+7) Examples of Output Devices :
+-------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+\\\\ Central Processing Unit ////
+________________________________________________
+ Central Processing Unit                        |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Central Processing Unit 
+                                                                                        
+2) Definition of Central Processing Unit ?
+------------------------------------------
+*
+ 
+3) What is Central Processing Unit About ?
+------------------------------------------
+*
+*
+
+4) What does Central Processing Unit Do ?
+-----------------------------------------
+*
+*
+
+5) Advantages/Benefits of Central Processing Unit :
+---------------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Central Processing Unit :
+------------------------------------------------------
+*
+*
+*  
+
+7) Examples of Central Processing Unit :
+----------------------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Hardware ////
+________________________________________________
+ Hardware                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Hardware 
+                                                                                        
+2) Definition of Hardware ?
+---------------------------
+*
+ 
+3) What is Hardware About ?
+---------------------------
+*
+*
+
+4) What does Hardware Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Hardware :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Hardware :
+---------------------------------------
+*
+*
+*
+
+7) Examples of Hardware :
+-------------------------
+*
+*
+___________________________________________________________________________________
+
+\\\\ Software ////
+________________________________________________
+ Software                                       |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Software 
+                                                                                        
+2) Definition of Software ?
+---------------------------
+*
+ 
+3) What is Software About ?
+---------------------------
+*
+*
+
+4) What does Software Do ?
+--------------------------
+*
+*
+
+5) Advantages/Benefits of Software :
+------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Software :
+---------------------------------------
+*
+*
+*  
+
+7) Examples of Software :
+-------------------------
+*
+*
+__________________________________________________________________________________
+
+
+\\\\ Operating System ////
+________________________________________________
+ Operating System                               |
+                                                |                  
+________________________________________________|
+            |
+            |
+
+1) What's the Heading ?
+-----------------------
+* Operating System 
+                                                                                        
+2) Definition of Operating System ?
+-----------------------------------
+*
+ 
+3) What is Operating System About ?
+-----------------------------------
+*
+*
+
+4) What does Operating System Do ?
+----------------------------------
+*
+*
+
+5) Advantages/Benefits of Operating System :
+--------------------------------------------
+*
+*
+*
+
+6) Disadvantages/Drawback of Operating System :
+-----------------------------------------------
+*
+*
+*  
+
+7) Examples of Operating System :
+---------------------------------
+*
+*
+_________________________________________________________________________________
+
+
+

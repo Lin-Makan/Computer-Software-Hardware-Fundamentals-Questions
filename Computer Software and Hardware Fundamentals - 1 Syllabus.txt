@@ -1,0 +1,143 @@
+
+    COMPUTER SOFTWARE and HARDWARE FUNDAMENTALS         
+    SYLLABUS :
+-------------------------------------------------------------------------------------
+
+COMPUTER :
+----------
+Computer Fundamentals 
+What is Computer
+History of Computer
+Types of Computer
+_______________________________________________________________________________
+
+COMPUTER COMPONENTS :
+---------------------
+Computer Components
+Input Devices
+Output Devices
+Central Processing Unit
+Hardware
+Software
+Operating System
+_______________________________________________________________________________
+
+COMPUTER MEMORY :
+-----------------
+Computer Memory
+Register Memory
+Cache Memory
+Primary Memory
+RAM
+ROM
+Secondary Memory
+Memory Units
+_______________________________________________________________________________
+
+COMPUTER NETWORK :
+------------------
+Computer Network
+_______________________________________________________________________________
+
+COMPUTER VIRUS :
+----------------
+Computer Virus
+______________________________________________________________________________
+
+NUMBER SYSTEMS :
+----------------
+Number Systems
+______________________________________________________________________________
+
+INTERNET :
+----------
+Internet
+Intranet
+Extranet
+Website
+______________________________________________________________________________
+
+SHORTCUT KEYS :
+---------------
+Computer Shortcut Keys
+______________________________________________________________________________
+
+TERMS :
+-------
+1. Windows
+2. Computer Ports
+3. Program
+4. Printers
+5. Microphone
+6. Monitor
+7. Motherboard
+8. Incognito Mode
+9. Mouse
+10. Memory Card
+11. What is a CD
+12. What is ID
+13. ISO
+14. What is Character
+15. What is a server
+16. What is E-mail
+17. What is Keyboard
+18. What is Remote
+19. What is Webcam
+20. What is Data
+21. What is URL
+22. What is keypad
+23. What is hub
+24. What is File
+25. Bytes
+26. Exabyte
+27. Gb
+28. Kilobyte
+29. Megabyte
+30. Petabyte
+31. Terabyte
+32. What is HDD
+33. What is SSD
+34. Memory vs Storage
+35. Non-volatile memory
+36. What is M.2 SSD
+37. How To Reboot A Computer
+38. Multi-Level Cell
+39. NAND Flash Memory
+40. What is lock screen
+41. Block Storage
+42. USB flash drive
+43. VRAM
+44. Cloud Hosting
+45. CompactFlash card
+46. What is WAP?
+47. Classification of Memory
+48. Hardware vs Software
+49. Uses of Computer
+50. Uses of Internet
+51. What is Abacus
+52. Best Proxy Servers
+53. SSL vs TLS
+54. Web Console
+55. What is the GPU
+56. LAN vs WAN
+57. SSD vs HDD
+58. Introduction to Computer
+59. Data Migration
+60. JEDEC
+61. MLC vs TLC vs SLC NAND Flash
+62. VirtualBox Installation
+63. Num Lock
+64. What is a PC
+65. What is MAC
+66. Continuous Data Protection
+67. Persistent Storage
+68. What is Bit
+69. Software Definition
+70. What is a File System
+71. When was the first computer invented
+72. How many generations of the computer
+73. Minicomputer
+74. Fourth Generation of Computer
+75. What is a Username
+76. What is ALU
+____________________________________________________________________________________
